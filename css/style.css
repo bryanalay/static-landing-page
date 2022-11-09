@@ -27,6 +27,24 @@ li{
     align-items: center;
 }
 
+.content-slider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider-iz{
+    padding-right: 15px;
+}
+
+#screen{
+    border-radius: 30px;
+}
+
+.slider-der{
+    padding-left: 15px;
+}
+
 .tarifas{
     text-align: left;
 }
