@@ -1,6 +1,6 @@
 
 const images = ['img/img1.jpg','img/img2.jpg','img/img3.jpg','img/img4.jpg']
-const navesIMG = ['../img/bannerSpacex.png','../img/nave2.jpg','../img/nave3.jpg','../img/nave4.jpg']
+const navesIMG = ['img/bannerSpacex.png','img/nave2.jpg','img/nave3.jpg','img/nave4.jpg']
 
 document.getElementById("screen").src = images[0];
 
